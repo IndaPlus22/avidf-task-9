@@ -1,0 +1,31 @@
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compile files
+*.slo
+*.lo
+*.o
+*.d
+*.obj
+
+# Dynamic compile files
+*.so
+*.dylib
+*.dll 
+
+# Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Module files
+*.mod
+*.smod
+
+# Executables
+*.exe
+*.out
+*.app
